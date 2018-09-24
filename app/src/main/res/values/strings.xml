@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentCommunication</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_1">BUTTON 1</string>
+    <string name="button_2">BUTTON 2</string>
+    <string name="enter_data_one_here">Enter data one here</string>
+    <string name="enter_data_two_here">Enter data two here</string>
+</resources>
